@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/mraniket.github.io/static/css/main.17dae35b.chunk.css",
-    "main.js": "/mraniket.github.io/static/js/main.eb16dde6.chunk.js",
-    "main.js.map": "/mraniket.github.io/static/js/main.eb16dde6.chunk.js.map",
+    "main.js": "/mraniket.github.io/static/js/main.a7165e86.chunk.js",
+    "main.js.map": "/mraniket.github.io/static/js/main.a7165e86.chunk.js.map",
     "runtime-main.js": "/mraniket.github.io/static/js/runtime-main.4cd0a01b.js",
     "runtime-main.js.map": "/mraniket.github.io/static/js/runtime-main.4cd0a01b.js.map",
     "static/css/2.fe9fc2a8.chunk.css": "/mraniket.github.io/static/css/2.fe9fc2a8.chunk.css",
-    "static/js/2.014fa404.chunk.js": "/mraniket.github.io/static/js/2.014fa404.chunk.js",
-    "static/js/2.014fa404.chunk.js.map": "/mraniket.github.io/static/js/2.014fa404.chunk.js.map",
+    "static/js/2.4ed005fc.chunk.js": "/mraniket.github.io/static/js/2.4ed005fc.chunk.js",
+    "static/js/2.4ed005fc.chunk.js.map": "/mraniket.github.io/static/js/2.4ed005fc.chunk.js.map",
     "static/js/3.98714f6a.chunk.js": "/mraniket.github.io/static/js/3.98714f6a.chunk.js",
     "static/js/3.98714f6a.chunk.js.map": "/mraniket.github.io/static/js/3.98714f6a.chunk.js.map",
     "index.html": "/mraniket.github.io/index.html",
     "static/css/2.fe9fc2a8.chunk.css.map": "/mraniket.github.io/static/css/2.fe9fc2a8.chunk.css.map",
     "static/css/main.17dae35b.chunk.css.map": "/mraniket.github.io/static/css/main.17dae35b.chunk.css.map",
-    "static/js/2.014fa404.chunk.js.LICENSE.txt": "/mraniket.github.io/static/js/2.014fa404.chunk.js.LICENSE.txt",
+    "static/js/2.4ed005fc.chunk.js.LICENSE.txt": "/mraniket.github.io/static/js/2.4ed005fc.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/mraniket.github.io/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/image1.6de65176.png": "/mraniket.github.io/static/media/image1.6de65176.png",
     "static/media/logo.6ce24c58.svg": "/mraniket.github.io/static/media/logo.6ce24c58.svg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.4cd0a01b.js",
     "static/css/2.fe9fc2a8.chunk.css",
-    "static/js/2.014fa404.chunk.js",
+    "static/js/2.4ed005fc.chunk.js",
     "static/css/main.17dae35b.chunk.css",
-    "static/js/main.eb16dde6.chunk.js"
+    "static/js/main.a7165e86.chunk.js"
   ]
 }
