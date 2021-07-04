@@ -1,0 +1,22 @@
+.title{
+    padding-top: 10px;
+}
+
+.ContactSubtitle{
+    font-family: "Gill Sans", sans-serif;
+    font-size: 18px;
+    margin-left: 0;
+    margin-right: 0;
+    line-height: 25px;
+    text-align: center;
+    padding-bottom: 10px;
+    
+    color: #7f878f;
+}
+
+@media only screen and (max-width: 960px) {
+    #intro {
+       padding-top: 50px;
+       margin: auto;
+    }
+}

@@ -1,0 +1,130 @@
+.title{
+    /* padding-top: 10px; */
+    margin-top: 0px;
+}
+
+.img1{
+    padding-top: 20px;
+    /* padding-right: 10px; */
+    max-width: 100%;
+    /* height: auto; */
+    text-align: right;
+    /* align-items: right; */
+    /* margin-right: -5%; */
+}
+.container{
+    max-width: 100%;
+}
+
+#intro{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    color: rgb(2, 2, 2);
+    text-transform: capitalize;
+    /* font-family: Google sans bold; */
+
+}
+
+.intro{
+    font-family: Google Sans Bold;
+    font-size: 60px;
+    font-weight: bold;
+}
+@media only screen and (max-width: 600px) {
+    .intro {
+       font-size: 30px;
+    }
+}
+h1{
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-size: 20px;
+}
+@media only screen and (max-width: 600px) {
+    #intro {
+       padding-top: 30px;
+    }
+}
+.fa_icons{
+   
+     font-family: font-awesome;
+     font-size: 1.5em;
+     
+}
+
+.fa_icons .insta{
+    color: white;
+    background-color: rgb(51, 47, 47);
+    border-radius: 2.6rem;
+    font-size: 1.3rem;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    width: 2.6rem;
+    height: 2.6rem;
+    line-height: 2.6rem;
+    margin: 0 5px 10px;
+    /* padding: 10px 14px 10px 14px; */
+    /* margin-top: 10px; */
+}
+.fa_icons .insta:hover{
+    background-color: rgb(0, 0, 0);
+}
+.fa_icons .github{
+    color: white;
+    background-color: rgb(54, 52, 52);
+    border-radius: 2.6rem;
+    font-size: 1.3rem;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    width: 2.6rem;
+    height: 2.6rem;
+    line-height: 2.6rem;
+    margin: 0 5px 10px;
+}
+
+.fa_icons .github:hover{
+    background-color: rgb(0, 0, 0);
+}
+.fa_icons .linkedin{
+    color: white;
+    background-color: rgb(69, 125, 245);
+    border-radius: 2.6rem;
+    font-size: 1.3rem;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    width: 2.6rem;
+    height: 2.6rem;
+    line-height: 2.6rem;
+    margin: 0 5px 10px;
+}
+.fa_icons .linkedin:hover{
+    background-color: rgb(0, 0, 0);
+}
+.fa_icons .twitter{
+    color: white;
+    background-color: rgb(25, 153, 228);
+    border-radius: 2.6rem;
+    font-size: 1.3rem;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    width: 2.6rem;
+    height: 2.6rem;
+    line-height: 2.6rem;
+    margin: 0 5px 10px;
+}
+.fa_icons .twitter:hover{
+    background-color: rgb(0, 0, 0);
+}
+
+
+.design{
+    background-color: red;
+}

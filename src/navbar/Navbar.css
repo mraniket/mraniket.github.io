@@ -1,0 +1,133 @@
+.iconStyle{
+background-image: url(./user-profile.png);
+}
+
+.appbar{
+    color: red;
+}
+.hideButtons{
+    @media only screen and (max-width: 600px) {
+           #fadeshow1 {
+        display: none;
+    }
+        
+      }
+}
+
+  
+  @media only screen and (max-width: 600px) {
+    #fadeshow1 {
+        display: none;
+        color: white;
+    }
+}
+  @media only screen and (min-width: 500px) {
+    #fadeshow2 {
+        display: none;
+    }
+}
+
+#navbar{
+    max-width: 100%;
+    font-size: 12px;
+    
+}
+
+.fonts{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 60px;
+}
+
+#shadow{
+
+    box-shadow: 0px 1px 10px 0.1px;
+    /* padding-top: 1px; */
+    /* background: linear-gradient(90deg, rgba(221,45,158,1) 35%, rgba(68,0,255,0.9136029411764706) 100%); */
+}
+
+#font{
+    /* font-style: italic; */
+    /* font-weight: bold; */
+    font-size: 32px;
+    display: inline-block;
+    padding-left: 10rem;
+}
+
+@media only screen and (max-width: 600px) {
+    #font {
+        font-size: 28px;
+    display: inline-block;
+    padding-left: 5rem;
+    }
+}
+#font #font1{
+    font-family: Snell Roundhand, cursive;
+    /* font-style: italic; */
+    font-weight: bold;
+    font-size: 32px;
+    display: inline-block;
+    padding-left: 10px;
+}
+
+
+
+
+.insta{
+   color: white;
+   background-color: rgb(51, 47, 47);
+   border-radius: 2.6rem;
+   font-size: 1.3rem;
+   display: inline-block;
+   text-align: center;
+   margin: 10px;
+   width: 2.6rem;
+   height: 2.6rem;
+   line-height: 2.6rem;
+   margin: 0 5px 10px;
+   /* padding: 10px 14px 10px 14px; */
+   /* margin-top: 10px; */
+}
+
+.github{
+   color: white;
+   background-color: rgb(54, 52, 52);
+   border-radius: 2.6rem;
+   font-size: 1.3rem;
+   display: inline-block;
+   text-align: center;
+   margin: 10px;
+   width: 2.6rem;
+   height: 2.6rem;
+   line-height: 2.6rem;
+   margin: 0 5px 10px;
+}
+
+
+.linkedin{
+   color: white;
+   background-color: rgb(69, 125, 245);
+   border-radius: 2.6rem;
+   font-size: 1.3rem;
+   display: inline-block;
+   text-align: center;
+   margin: 10px;
+   width: 2.6rem;
+   height: 2.6rem;
+   line-height: 2.6rem;
+   margin: 0 5px 10px;
+}
+
+.twitter{
+   color: white;
+   background-color: rgb(25, 153, 228);
+   border-radius: 2.6rem;
+   font-size: 1.3rem;
+   display: inline-block;
+   text-align: center;
+   margin: 10px;
+   width: 2.6rem;
+   height: 2.6rem;
+   line-height: 2.6rem;
+   margin: 0 5px 10px;
+}
